@@ -1,0 +1,13 @@
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.exe
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.deps.json
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.AssemblyReference.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\mvsan\fellowship_program\day6\Logic\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.genruntimeconfig.cache

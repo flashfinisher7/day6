@@ -1,0 +1,12 @@
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\bin\Debug\netcoreapp3.1\fibonacciseries.exe
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\bin\Debug\netcoreapp3.1\fibonacciseries.deps.json
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\bin\Debug\netcoreapp3.1\fibonacciseries.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\bin\Debug\netcoreapp3.1\fibonacciseries.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\bin\Debug\netcoreapp3.1\fibonacciseries.dll
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\bin\Debug\netcoreapp3.1\fibonacciseries.pdb
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\obj\Debug\netcoreapp3.1\fibonacciseries.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\obj\Debug\netcoreapp3.1\fibonacciseries.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\obj\Debug\netcoreapp3.1\fibonacciseries.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\obj\Debug\netcoreapp3.1\fibonacciseries.dll
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\obj\Debug\netcoreapp3.1\fibonacciseries.pdb
+C:\Users\mvsan\fellowship_program\day6\Logic\fibonacciseries\fibonacciseries\obj\Debug\netcoreapp3.1\fibonacciseries.genruntimeconfig.cache

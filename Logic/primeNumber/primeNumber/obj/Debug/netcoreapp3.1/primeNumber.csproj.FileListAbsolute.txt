@@ -1,0 +1,12 @@
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.exe
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.deps.json
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.dll
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.pdb
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.dll
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.pdb
+C:\Users\mvsan\fellowship_program\day6\Logic\primeNumber\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.genruntimeconfig.cache

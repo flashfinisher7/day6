@@ -1,0 +1,4 @@
+C:\Users\mvsan\source\repos\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.AssemblyInfoInputs.cache
+C:\Users\mvsan\source\repos\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.AssemblyInfo.cs
+C:\Users\mvsan\source\repos\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\source\repos\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.csproj.AssemblyReference.cache
